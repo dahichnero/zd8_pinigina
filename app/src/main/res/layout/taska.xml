@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="312dp"
+    android:layout_height="72dp"
+    android:padding="8dp"
+    android:layout_marginTop="16dp"
+    android:background="@drawable/angles_three"
+    android:elevation="10dp">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start">
+        <TextView
+            android:id="@+id/task_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TITLTE"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:textColor="@color/white"></TextView>
+        <TextView
+            android:id="@+id/task_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Desc"
+            android:textSize="11dp"
+            android:textColor="@color/white"></TextView>
+
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="end">
+        <TextView
+            android:id="@+id/task_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="10.02.2020"
+            android:textSize="11dp"
+            android:textColor="@color/white"></TextView>
+        <TextView
+            android:id="@+id/task_hour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="10:30"
+            android:textSize="11dp"
+            android:textColor="@color/white"
+            android:layout_marginRight="25dp"></TextView>
+
+    </LinearLayout>
+
+</LinearLayout>

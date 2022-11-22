@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Praktika8</string>
+    <string name="vhod">Войти</string>
+    <string name="user">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="spisok_del">Список дел</string>
+    <string name="add_task">Добавить задачу</string>
+    <string name="edit_task">Изменить задачу</string>
+    <string name="title">Заголовок задачи</string>
+    <string name="desc">Описание задачи</string>
+    <string name="delete">Удалить задачу</string>
+    <string name="save">Записать задачу</string>
+</resources>

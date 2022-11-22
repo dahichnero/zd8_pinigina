@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Exam/Praktika8/app/src/main/res/drawable/angles.xml" value="0.375" />
+        <entry key="..\:/Exam/Praktika8/app/src/main/res/drawable/angles_four.xml" value="0.3828125" />
+        <entry key="..\:/Exam/Praktika8/app/src/main/res/drawable/angles_three.xml" value="0.3828125" />
+        <entry key="..\:/Exam/Praktika8/app/src/main/res/drawable/angles_two.xml" value="0.375" />
+        <entry key="..\:/Exam/Praktika8/app/src/main/res/layout/activity_edit_task.xml" value="0.36666666666666664" />
+        <entry key="..\:/Exam/Praktika8/app/src/main/res/layout/activity_general.xml" value="0.36666666666666664" />
+        <entry key="..\:/Exam/Praktika8/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Exam/Praktika8/app/src/main/res/layout/taska.xml" value="0.36666666666666664" />
+        <entry key="..\:/Exam/Praktika8/app/src/main/res/menu/menu_bar.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
